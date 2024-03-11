@@ -3,8 +3,10 @@ body {
     background-color: #f8f9fa;
     margin: 0;
     padding: 0;
-    /* overflow: hidden; Prevents horizontal scrollbar */
-    background-image: url('bg.png');
+/*      Remove the background image */
+/*     background-image: url('bg.png'); */
+/*     Set background color to black */
+    background-color: black;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
